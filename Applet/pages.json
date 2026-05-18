@@ -1,0 +1,257 @@
+{
+	"pages": [
+		{
+			"path": "pages/guide/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/WorkerIndex/index",
+			"style": {
+				"navigationBarTitleText": "邕工帮"
+			}
+		},
+		{
+		  "path": "pages/index/MerchantIndex/index",
+		  "style": {
+		    "navigationStyle": "custom"
+		  }
+		},
+		{
+			"path": "pages/index/MerchantIndex/registerShop",
+			"style": {
+				"navigationBarTitleText": "商家注册"
+			}
+		},
+		{
+			"path": "pages/index/WorkerIndex/registerWorker",
+			"style": {
+				"navigationBarTitleText": "零工注册"
+			}
+		},
+		{
+		  "path": "pages/index/WorkerIndex/market",
+		  "style": {
+		    "navigationStyle": "custom"
+		  }
+		},
+		{
+		  "path": "pages/index/WorkerIndex/mine",
+		  "style": {
+		    "navigationStyle": "custom"
+		  }
+		},
+		{
+		  "path": "pages/index/MerchantIndex/mine",
+		  "style": {
+		    "navigationStyle": "custom"
+		  }
+		},
+		{
+			"path": "pages/index/WorkerIndex/profile",
+			"style": {
+				"navigationBarTitleText": "个人信息"
+			}
+		},
+		{
+			"path": "pages/index/MerchantIndex/merchant-profile",
+			"style": {
+				"navigationBarTitleText": "商家信息"
+			}
+		},
+		{
+			"path": "pages/index/WorkerIndex/identityVerification",
+			"style": {
+				"navigationBarTitleText": "实名认证"
+			}
+		},
+		{
+			"path": "pages/index/MerchantIndex/identityVerification",
+			"style": {
+				"navigationBarTitleText": "实名认证"
+			}
+		},
+		{
+			"path": "pages/index/MerchantIndex/merchant-verification",
+			"style": {
+				"navigationBarTitleText": "商家身份验证"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/login/phoneAuth",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/task/MerchantTask/task",
+			"style": {
+				"navigationBarTitleText": "任务"
+			}
+		},
+		{
+		  "path": "pages/task/WorkerTask/task",
+		  "style": {
+		    "navigationStyle": "custom"
+		  }
+		},
+		{
+			"path": "pages/task/MerchantTask/taskV2",
+			"style": {
+				"navigationBarTitleText": "任务(审批/互评)"
+			}
+		},
+		{
+			"path": "pages/webview/webview",
+			"style": {
+				"navigationBarTitleText": "结算报表"
+			}
+		},
+		{
+			"path": "pages/task/MerchantTask/publishTask",
+			"style": {
+				"navigationBarTitleText": "发布任务"
+			}
+		},
+		{
+			"path": "pages/task/WorkerTask/job-detail",
+			"style": {
+				"navigationBarTitleText": "任务详情"
+			}
+		},
+		{
+			"path": "pages/task/MerchantTask/job-detail",
+			"style": {
+				"navigationBarTitleText": "任务详情"
+			}
+		},
+		{
+			"path": "pages/help/help",
+			"style": {
+				"navigationBarTitleText": "帮助中心"
+			}
+		},
+		{
+			"path": "pages/index/WorkerIndex/setting",
+			"style": {
+				"navigationBarTitleText": "设置"
+			}
+		},
+		{
+			"path": "pages/index/MerchantIndex/setting",
+			"style": {
+				"navigationBarTitleText": "设置"
+			}
+		},
+		{
+			"path": "pages/index/MerchantIndex/wallet",
+			"style": {
+				"navigationBarTitleText": "我的钱包"
+			}
+		},
+		{
+			"path": "pages/index/WorkerIndex/wallet",
+			"style": {
+				"navigationBarTitleText": "我的钱包"
+			}
+		},
+		{
+			"path": "pages/index/MerchantIndex/walletDetail",
+			"style": {
+				"navigationBarTitleText": "钱包明细"
+			}
+		},
+		{
+			"path": "pages/index/WorkerIndex/walletDetail",
+			"style": {
+				"navigationBarTitleText": "钱包明细"
+			}
+		},
+		{
+			"path": "pages/newadd/account-management",
+			"style": {
+				"navigationBarTitleText": "账号管理"
+			}
+		},
+		{
+			"path": "pages/newadd/change-phone",
+			"style": {
+				"navigationBarTitleText": "修改手机号"
+			}
+		},
+		{
+			"path": "pages/newadd/change-password",
+			"style": {
+				"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+			"path": "pages/task/MerchantTask/settlementDetail",
+			"style": {
+				"navigationBarTitleText": "薪资结算"
+			}
+		},
+		{
+			"path": "pages/task/WorkerTask/rate",
+			"style": {
+				"navigationBarTitleText": "互评"
+			}
+		},
+		{
+			"path": "pages/task/MerchantTask/rate",
+			"style": {
+				"navigationBarTitleText": "互评"
+			}
+		},
+		{
+			"path": "pages/task/MerchantTask/rateWorkers",
+			"style": {
+				"navigationBarTitleText": "评价零工"
+			}
+		},
+		{
+			"path": "pages/task/WorkerTask/cancelTask",
+			"style": {
+				"navigationBarTitleText": "过审后取消报名"
+			}
+		},
+		{
+			"path": "pages/task/MerchantTask/cancelTask",
+			"style": {
+				"navigationBarTitleText": "取消任务"
+			}
+		},
+		{
+			"path": "pages/MerchantWebview/webview",
+			"style": {
+				"navigationBarTitleText": "结算报表"
+			}
+		},
+		{
+			"path": "pages/admin/dashboard",
+			"style": {
+				"navigationBarTitleText": "管理员后台"
+			}
+		},
+		{
+			"path": "pages/admin/identity-verification",
+			"style": {
+				"navigationBarTitleText": "实名认证审核"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#f0fbfd",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
